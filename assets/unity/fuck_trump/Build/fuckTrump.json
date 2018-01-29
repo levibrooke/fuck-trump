@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Team Fuck-Trump",
+"dataUrl": "fuckTrump.data.unityweb",
+"asmCodeUrl": "fuckTrump.asm.code.unityweb",
+"asmMemoryUrl": "fuckTrump.asm.memory.unityweb",
+"asmFrameworkUrl": "fuckTrump.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
